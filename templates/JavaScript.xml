@@ -100,4 +100,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="fetc" value="return fetch(url).then(resp =&gt; resp.json()).then(json =&gt; {return {type:&quot;DATA_LOADED&quot;, payload:json};});" description="fetch response then and then" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+    </context>
+  </template>
 </templateSet>
