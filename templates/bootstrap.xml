@@ -11,6 +11,7 @@
     <variable name="9" expression="&quot;sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="10" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -19,6 +20,7 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -26,6 +28,7 @@
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -33,6 +36,7 @@
     <variable name="1" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -40,6 +44,7 @@
     <variable name="1" expression="&quot;&lt;strong&gt;Holy guacamole!&lt;/strong&gt; You should check in on some of those fields below.&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;info&quot;,&quot;warning&quot;,&quot;danger&quot;,&quot;light&quot;,&quot;dark&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -50,6 +55,7 @@
     <variable name="4" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -58,6 +64,7 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -65,6 +72,7 @@
     <variable name="1" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -74,6 +82,7 @@
     <variable name="3" expression="&quot;Example heading&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="&quot;New&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -82,6 +91,7 @@
     <variable name="2" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -89,6 +99,7 @@
     <variable name="1" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -99,6 +110,7 @@
     <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -113,6 +125,7 @@
     <variable name="8" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="9" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -127,6 +140,7 @@
     <variable name="8" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="9" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -135,6 +149,7 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="&quot;Add buttons here&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -149,6 +164,7 @@
     <variable name="8" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="9" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -159,6 +175,7 @@
     <variable name="4" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -169,6 +186,7 @@
     <variable name="4" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -178,6 +196,7 @@
     <variable name="3" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;,&quot;link&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -186,6 +205,7 @@
     <variable name="2" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;,&quot;link&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -198,6 +218,7 @@
     <variable name="6" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="7" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -205,6 +226,7 @@
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;,&quot;link&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -214,6 +236,7 @@
     <variable name="3" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;,&quot;link&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="enum(&quot;active&quot;,&quot;disabled&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -222,6 +245,7 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;,&quot;link&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -229,6 +253,7 @@
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;,&quot;link&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -241,6 +266,7 @@
     <variable name="6" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="7" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -249,6 +275,7 @@
     <variable name="2" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;,&quot;link&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="enum(&quot;lg&quot;,&quot;sm&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -256,6 +283,7 @@
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;,&quot;link&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -266,6 +294,7 @@
     <variable name="4" expression="&quot;Title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="&quot;Body&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -277,6 +306,7 @@
     <variable name="5" expression="&quot;Title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="6" expression="&quot;Text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -287,6 +317,7 @@
     <variable name="4" expression="&quot;Title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="&quot;Text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -295,6 +326,7 @@
     <variable name="2" expression="&quot;Footer&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="&quot;Source title&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -305,6 +337,7 @@
     <variable name="4" expression="&quot;Title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="&quot;Text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -318,6 +351,7 @@
     <variable name="7" expression="&quot;Title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="8" expression="&quot;Text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -331,6 +365,7 @@
     <variable name="7" expression="&quot;Title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="8" expression="&quot;Text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -340,6 +375,7 @@
     <variable name="3" expression="&quot;Title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="&quot;Text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -353,6 +389,7 @@
     <variable name="7" expression="&quot;Title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="8" expression="&quot;Text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -366,6 +403,7 @@
     <variable name="7" expression="&quot;Title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="8" expression="&quot;Text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -375,6 +413,7 @@
     <variable name="3" expression="&quot;Text&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="&quot;Footer&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -388,6 +427,7 @@
     <variable name="7" expression="&quot;Another link&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="8" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -400,6 +440,7 @@
     <variable name="6" expression="&quot;Item 2&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="7" expression="&quot;Item 3&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -409,6 +450,7 @@
     <variable name="3" expression="&quot;Title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="&quot;Text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -422,6 +464,7 @@
     <variable name="7" expression="&quot;Title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="8" expression="&quot;Body&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -436,6 +479,7 @@
     <variable name="8" expression="&quot;Link 2&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="9" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -449,6 +493,7 @@
     <variable name="7" expression="&quot;Title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="8" expression="&quot;Body&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -467,6 +512,7 @@
     <variable name="12" expression="&quot;Title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="13" expression="&quot;Description&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -479,6 +525,7 @@
     <variable name="6" expression="&quot;holder.js/900x500/auto/#666:#444/text:Third slide&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="7" expression="&quot;Third slide&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -493,6 +540,7 @@
     <variable name="8" expression="&quot;Section 2 content&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="9" expression="&quot;section2ContentId&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -501,6 +549,7 @@
     <variable name="2" expression="&quot;contentId&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -509,6 +558,7 @@
     <variable name="2" expression="&quot;contentId&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -525,6 +575,7 @@
     <variable name="10" expression="&quot;After divider action&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="11" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -536,6 +587,7 @@
     <variable name="5" expression="&quot;Disabled action&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="6" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -547,6 +599,7 @@
     <variable name="5" expression="&quot;Disabled action&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="6" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -559,6 +612,7 @@
     <variable name="6" expression="&quot;Disabled action&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="7" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -575,6 +629,7 @@
     <variable name="10" expression="&quot;After divider action&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="11" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -592,6 +647,7 @@
     <variable name="11" expression="&quot;Ater divider action&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="12" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -604,6 +660,7 @@
     <variable name="6" expression="&quot;Separated link&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="7" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -619,6 +676,7 @@
     <variable name="9" expression="&quot;After divider action&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="10" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -635,6 +693,7 @@
     <variable name="10" expression="&quot;After divider action&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="11" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -643,6 +702,7 @@
     <variable name="2" expression="&quot;checkedValue&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -651,6 +711,7 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="&quot;checkedValue&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -659,6 +720,7 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="&quot;Text for screen reader&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -668,6 +730,7 @@
     <variable name="3" expression="&quot;checkedValue&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="&quot;checked&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -678,6 +741,7 @@
     <variable name="4" expression="&quot;emailHelpId&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="&quot;Help text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -687,6 +751,7 @@
     <variable name="3" expression="&quot;fileHelpId&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="&quot;Help text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -697,6 +762,7 @@
     <variable name="4" expression="&quot;fileHelpId&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="&quot;Help text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -715,6 +781,7 @@
     <variable name="12" expression="&quot;Action&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="13" expression="&quot;submit&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -725,6 +792,7 @@
     <variable name="4" expression="&quot;helpId&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="&quot;Help text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -736,18 +804,21 @@
     <variable name="5" expression="&quot;helpId&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="6" expression="&quot;Help text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="b4-form-help-text-inline" value="&lt;small class=&quot;text-muted&quot;&gt;$1$&lt;/small&gt;$END$" description="form help text inline" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="b4-form-help-text" value="&lt;p class=&quot;form-text text-muted&quot;&gt;&#10;&#9;$1$&#10;&lt;/p&gt;$END$" description="form help text" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -757,6 +828,7 @@
     <variable name="3" expression="enum(&quot;text&quot;,&quot;password&quot;,&quot;email&quot;,&quot;number&quot;,&quot;submit&quot;,&quot;date&quot;,&quot;datetime&quot;,&quot;datetime-local&quot;,&quot;month&quot;,&quot;color&quot;,&quot;range&quot;,&quot;search&quot;,&quot;tel&quot;,&quot;time&quot;,&quot;url&quot;,&quot;week&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="&quot;inputName&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -768,6 +840,7 @@
     <variable name="5" expression="&quot;helpId&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="6" expression="&quot;Help text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -780,6 +853,7 @@
     <variable name="6" expression="&quot;helpId&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="7" expression="&quot;Help text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -790,6 +864,7 @@
     <variable name="4" expression="&quot;helpId&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="&quot;Help text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -801,6 +876,7 @@
     <variable name="5" expression="&quot;helpId&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="6" expression="&quot;Help text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -815,6 +891,7 @@
     <variable name="8" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="9" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -825,6 +902,7 @@
     <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -836,6 +914,7 @@
     <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="6" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -844,6 +923,7 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -852,6 +932,7 @@
     <variable name="2" expression="&quot;checkedValue&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -860,6 +941,7 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="&quot;checkedValue&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -868,6 +950,7 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="&quot;Text for screen reader&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -877,6 +960,7 @@
     <variable name="3" expression="&quot;checkedValue&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="&quot;checked&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -884,6 +968,7 @@
     <variable name="1" expression="&quot;Reset&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;,&quot;link&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -898,6 +983,7 @@
     <variable name="8" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="9" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -909,6 +995,7 @@
     <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="6" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -919,6 +1006,7 @@
     <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -926,6 +1014,7 @@
     <variable name="1" expression="&quot;Submit&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;,&quot;link&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -934,6 +1023,7 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="&quot;3&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -943,6 +1033,7 @@
     <variable name="3" expression="enum(&quot;is-valid&quot;,&quot;is-invalid&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="&quot;Validation message&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -954,6 +1045,7 @@
     <variable name="5" expression="&quot;name&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="6" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -966,6 +1058,7 @@
     <variable name="6" expression="&quot;name&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="7" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -983,6 +1076,7 @@
     <variable name="11" expression="&quot;name&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="12" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1000,6 +1094,7 @@
     <variable name="11" expression="&quot;name&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="12" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1011,6 +1106,7 @@
     <variable name="5" expression="enum(&quot;text&quot;,&quot;password&quot;,&quot;email&quot;,&quot;number&quot;,&quot;submit&quot;,&quot;date&quot;,&quot;datetime&quot;,&quot;datetime-local&quot;,&quot;month&quot;,&quot;color&quot;,&quot;range&quot;,&quot;search&quot;,&quot;tel&quot;,&quot;time&quot;,&quot;url&quot;,&quot;week&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="6" expression="&quot;name&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1021,6 +1117,7 @@
     <variable name="4" expression="&quot;name&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="&quot;sufix&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1031,6 +1128,7 @@
     <variable name="4" expression="enum(&quot;text&quot;,&quot;password&quot;,&quot;email&quot;,&quot;number&quot;,&quot;submit&quot;,&quot;date&quot;,&quot;datetime&quot;,&quot;datetime-local&quot;,&quot;month&quot;,&quot;color&quot;,&quot;range&quot;,&quot;search&quot;,&quot;tel&quot;,&quot;time&quot;,&quot;url&quot;,&quot;week&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="&quot;name&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1041,6 +1139,7 @@
     <variable name="4" expression="&quot;sufix&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="&quot;sufixId&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1051,6 +1150,7 @@
     <variable name="4" expression="&quot;Jumbo action name&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="&quot;Jumbo action link&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1061,6 +1161,7 @@
     <variable name="4" expression="&quot;Jumbo action name&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="&quot;Jumbo action link&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1072,6 +1173,7 @@
     <variable name="5" expression="&quot;Disabled item&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="6" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1083,6 +1185,7 @@
     <variable name="5" expression="&quot;Disabled item&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="6" expression="&quot;pill3&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1091,6 +1194,7 @@
     <variable name="2" expression="&quot;Item&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="&quot;Disabled item&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1105,6 +1209,7 @@
     <variable name="8" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="9" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1125,6 +1230,7 @@
     <variable name="14" expression="&quot;Paragraph&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="15" expression="&quot;paragraph footer&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1133,6 +1239,7 @@
     <variable name="2" expression="&quot;Item&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="&quot;Disabled item&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1146,6 +1253,7 @@
     <variable name="7" expression="&quot;Add rows here&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="8" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1158,6 +1266,7 @@
     <variable name="6" expression="&quot;Save&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="7" expression="&quot;Body&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1170,6 +1279,7 @@
     <variable name="6" expression="&quot;Save&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="7" expression="&quot;Add rows here&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1182,6 +1292,7 @@
     <variable name="7" expression="&quot;Save&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="8" expression="&quot;Body&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1193,6 +1304,7 @@
     <variable name="5" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="6" expression="&quot;Disabled link&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1217,6 +1329,7 @@
     <variable name="18" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="19" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1229,6 +1342,7 @@
     <variable name="6" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="7" expression="&quot;Disabled link&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1247,6 +1361,7 @@
     <variable name="12" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="13" expression="&quot;Disabled&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1259,6 +1374,7 @@
     <variable name="6" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="7" expression="&quot;Disabled&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1270,6 +1386,7 @@
     <variable name="5" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="6" expression="&quot;Disabled link&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1295,6 +1412,7 @@
     <variable name="19" expression="&quot;Search&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="20" expression="&quot;Search&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1320,6 +1438,7 @@
     <variable name="19" expression="&quot;Search&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="20" expression="&quot;Search&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1343,6 +1462,7 @@
     <variable name="17" expression="&quot;Search&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="18" expression="&quot;Search&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1352,6 +1472,7 @@
     <variable name="3" expression="&quot;Home&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1361,6 +1482,7 @@
     <variable name="3" expression="&quot;Nav 2&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1381,6 +1503,7 @@
     <variable name="17" expression="&quot;Search&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="18" expression="&quot;Search&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1404,6 +1527,7 @@
     <variable name="17" expression="&quot;Search&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="18" expression="&quot;Search&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1419,6 +1543,7 @@
     <variable name="9" expression="&quot;Next&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="10" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1433,6 +1558,7 @@
     <variable name="8" expression="&quot;Next&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="9" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1448,6 +1574,7 @@
     <variable name="9" expression="&quot;Next&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="10" expression="&quot;#&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1456,6 +1583,7 @@
     <variable name="2" expression="&quot;Popup title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="&quot;Popup content&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1465,6 +1593,7 @@
     <variable name="3" expression="&quot;Popup content&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="enum(&quot;top&quot;,&quot;right&quot;,&quot;bottom&quot;,&quot;left&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1473,6 +1602,7 @@
     <variable name="2" expression="&quot;Popup title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="&quot;Popup content&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1483,6 +1613,7 @@
     <variable name="4" expression="&quot;25&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1492,6 +1623,7 @@
     <variable name="3" expression="&quot;100&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="&quot;25&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1502,6 +1634,7 @@
     <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1513,6 +1646,7 @@
     <variable name="5" expression="enum(&quot;primary&quot;,&quot;secondary&quot;,&quot;success&quot;,&quot;danger&quot;,&quot;warning&quot;,&quot;info&quot;,&quot;light&quot;,&quot;dark&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="6" expression="&quot;progress-bar-animated&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1523,6 +1657,7 @@
     <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1531,6 +1666,7 @@
     <variable name="2" expression="enum(&quot;top&quot;,&quot;right&quot;,&quot;bottom&quot;,&quot;left&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="&quot;Button name&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1540,6 +1676,7 @@
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="&quot;text-xs-right&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1549,6 +1686,7 @@
     <variable name="3" expression="enum(&quot;rounded-top&quot;,&quot;rounded-right&quot;,&quot;rounded-bottom&quot;,&quot;rounded-left&quot;,&quot;rounded-circle&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1563,6 +1701,7 @@
     <variable name="8" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="9" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1581,6 +1720,7 @@
     <variable name="12" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="13" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1589,6 +1729,7 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="&quot;Source Title&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1597,6 +1738,7 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="&quot;Source Title&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1611,6 +1753,7 @@
     <variable name="8" expression="&quot;Nested title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="9" expression="&quot;Nested definition&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1618,12 +1761,14 @@
     <variable name="1" expression="enum(&quot;1&quot;,&quot;2&quot;,&quot;3&quot;,&quot;4&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="b4-typography-lead" value="&lt;p class=&quot;lead&quot;&gt;&#10;    $2$&#10;&lt;/p&gt;$END$" description="typography lead" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1632,6 +1777,7 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1640,12 +1786,14 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="b4-typography-muted-text" value="&lt;small class=&quot;text-muted&quot;&gt;$1$&lt;/small&gt;$END$" description="typography muted text" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1654,18 +1802,21 @@
     <variable name="2" expression="&quot;1-12&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="b4-grid-container-fluid" value="&lt;div class=&quot;container-fluid&quot;&gt;&#10;&#9;$1$&#10;&lt;/div&gt;$END$" description="grid container fluid" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="b4-grid-container" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;$1$&#10;&lt;/div&gt;$END$" description="grid container" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1675,12 +1826,14 @@
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="b4-grid-row" value="&lt;div class=&quot;row&quot;&gt;&#10;&#9;$1$&#10;&lt;/div&gt;$END$" description="grid row" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1691,6 +1844,7 @@
     <variable name="4" expression="&quot;Media heading&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="&quot;Media text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1701,6 +1855,7 @@
     <variable name="4" expression="&quot;Media heading&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="&quot;Media text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1721,6 +1876,7 @@
     <variable name="14" expression="&quot;Media heading&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="15" expression="&quot;Media text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1731,6 +1887,7 @@
     <variable name="4" expression="&quot;Media heading&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="&quot;Media text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1746,6 +1903,7 @@
     <variable name="9" expression="&quot;Media heading&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="10" expression="&quot;Media text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1756,6 +1914,7 @@
     <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1766,6 +1925,7 @@
     <variable name="4" expression="&quot;Media heading&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="&quot;Media text&quot;" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1773,6 +1933,7 @@
     <variable name="1" expression="enum(&quot;sm&quot;,&quot;md&quot;,&quot;lg&quot;,&quot;xl&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1780,6 +1941,7 @@
     <variable name="1" expression="enum(&quot;sm&quot;,&quot;md&quot;,&quot;lg&quot;,&quot;xl&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
@@ -1787,6 +1949,7 @@
     <variable name="1" expression="enum(&quot;block&quot;,&quot;inline&quot;,&quot;inline-block&quot;,&quot;none&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="GSP" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
