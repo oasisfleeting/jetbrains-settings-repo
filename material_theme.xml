@@ -1,4 +1,8 @@
 <application>
+  <component name="MaterialDDLCThemeConfig">
+    <option name="userId" value="712f93c8:16ab75964ae:-7ff7" />
+    <option name="version" value="3.2.4" />
+  </component>
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
     <option name="isHighContrast" value="true" />
@@ -8,6 +12,6 @@
     <option name="accentColor" value="009688" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="3613d20a:169dfd26065:-8000" />
-    <option name="version" value="3.9.3" />
+    <option name="version" value="3.9.4" />
   </component>
 </application>
