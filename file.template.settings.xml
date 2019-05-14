@@ -1,13 +1,7 @@
 <application>
   <component name="ExportableFileTemplateSettings">
-    <default_templates>
-      <template name="React Basic Component.js" reformat="true" live-template-enabled="true" />
-      <template name="React Form Component.js" reformat="true" live-template-enabled="true" />
-      <template name="React Stateless Component.js" reformat="true" live-template-enabled="true" />
-    </default_templates>
     <code_templates>
       <template name="JavaScript Implemented Method Body.js" reformat="true" live-template-enabled="true" enabled="true" />
-      <template name="JavaScript Overridden Method Body.js" reformat="true" live-template-enabled="true" enabled="true" />
     </code_templates>
   </component>
 </application>

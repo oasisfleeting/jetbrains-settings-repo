@@ -1,6 +1,6 @@
 <application>
   <component name="SettingVariables">
-    <option name="importMode" value="OldModules" />
+    <option name="importMode" value="NewModules" />
     <option name="needDefault" value="true" />
     <option name="uncheckFunctionalComponent" value="true" />
   </component>
