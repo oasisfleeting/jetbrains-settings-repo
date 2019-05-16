@@ -13,13 +13,9 @@
   <component name="DartCodeFoldingSettings">
     <option name="collapseParts" value="false" />
   </component>
-  <component name="JSCodeFoldingSettings">
-    <option name="collapseArrayLiterals" value="true" />
-    <option name="collapseObjectLiterals" value="true" />
-    <option name="collapseOneLineFunctions" value="true" />
-    <option name="collapseXmlLiterals" value="true" />
-    <option name="COLLAPSE_OBJECT_LITERALS" value="true" />
-    <option name="COLLAPSE_ARRAY_LITERALS" value="true" />
-    <option name="COLLAPSE_XML_LITERALS" value="true" />
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+    <option name="COLLAPSE_ENTITIES" value="false" />
+    <option name="COLLAPSE_DATA_URI" value="false" />
   </component>
 </application>
