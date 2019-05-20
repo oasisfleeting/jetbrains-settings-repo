@@ -14,7 +14,6 @@
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="isHighContrast" value="true" />
     <option name="isStyledDirectories" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
@@ -23,6 +22,7 @@
     <option name="useMaterialFont2" value="true" />
     <option name="rightTreeIndent" value="6" />
     <option name="settingsSelectedTab" value="6" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="3613d20a:169dfd26065:-8000" />
     <option name="version" value="3.9.4" />
   </component>
