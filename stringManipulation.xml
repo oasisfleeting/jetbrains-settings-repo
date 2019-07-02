@@ -38,6 +38,24 @@
             </list>
           </option>
         </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1562086178212" />
+          <option name="separators">
+            <list>
+              <option value="&quot;&gt;" />
+              <option value="" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1562086188812" />
+          <option name="separators">
+            <list>
+              <option value="&quot;&gt;" />
+              <option value="" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
       </list>
     </option>
     <option name="version" value="2" />
