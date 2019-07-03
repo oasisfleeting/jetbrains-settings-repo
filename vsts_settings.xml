@@ -4,7 +4,16 @@
       <array />
     </option>
     <option name="properties">
-      <array />
+      <array>
+        <PropertyState>
+          <option name="name" value="tfHome" />
+          <option name="value" value="C:\Users\LyleMcclanahan\TeamExplorerEverywhere\tf.cmd" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="authType" />
+          <option name="value" value="DEVICE_FLOW" />
+        </PropertyState>
+      </array>
     </option>
   </component>
 </application>
