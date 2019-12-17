@@ -22,8 +22,7 @@
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="sqlserver.ms">
-      <remarks>sqlserver datasourceand drvie</remarks>
-      <artifact name="SQL Server" use="true" version="7.2.1" />
+      <artifact name="SQL Server" use="true" version="7.4.1" />
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
       <option name="auto-commit" value="true" />
@@ -32,7 +31,6 @@
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="sqlserver.jtds">
-      <remarks>npalog jtds</remarks>
       <artifact name="jTDS (SQL Server and Sybase)" use="true" version="1.3.1.1" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
@@ -49,21 +47,40 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="mysql.8">
-      <artifact name="MySQL Connector/J 8" use="true" />
+      <artifact name="MySQL Connector/J 8" use="true" version="8.0.15" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mysql">
-      <artifact name="MySQL Connector/J" use="true" />
+      <artifact name="MySQL Connector/J" use="true" version="5.1.47" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mariadb">
-      <artifact name="MariaDB Connector J" use="true" />
+      <artifact name="MariaDB Connector J" use="true" version="2.4.1" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="oracle">
-      <artifact name="Oracle" use="true" />
+      <artifact name="Oracle" use="true" version="12.2.0.1" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="postgresql">
       <artifact name="PostgreSQL" use="true" />
@@ -71,9 +88,13 @@
       <option name="schema-control" value="MANUAL" />
     </driver>
     <driver id="redshift">
-      <artifact name="Redshift" use="true" />
+      <artifact name="Redshift" use="true" version="1.2.16.1027" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
     </driver>
     <driver id="hsqldb.local">
       <artifact name="HSQLDB" use="true" />
@@ -88,8 +109,13 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sqlite.xerial">
-      <artifact name="Xerial SQLiteJDBC" use="true" />
+      <artifact name="Xerial SQLiteJDBC" use="true" version="3.25.1" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="exasol">
       <artifact name="Exasol" use="true" />
@@ -120,21 +146,6 @@
     <driver id="snowflake">
       <artifact name="Snowflake" use="true" />
       <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="8a17c6db-1740-4340-9191-4ff15396c9b1" name="Microsoft SQL Server  Default" dialect="TSQL" driver-class="com.microsoft.sqlserver.jdbc.SQLServerDriver" icon="AllIcons.Providers.SqlServer">
-      <remarks>sqlserver datasourceand drvie</remarks>
-      <url-template name="default" template="jdbc:sqlserver://{host:ssrp_host:localhost}[\\{instance:ssrp_instance}][:{port:ssrp_port}][;&lt;;,user[Name]={user:param},password={password:param},database[Name]={database},{:identifier}={:param}&gt;];?" />
-      <url-template name="default" template="jdbc:sqlserver://;&lt;;,user[Name]={user},password={password},database[Name]={database},server[Name]={host:ssrp_host_ipv6:localhost}[\\{instance:ssrp_instance}],port[Number]={port:ssrp_port},{:identifier}={:param}&gt;;?" />
-      <url-template name="default" template="jdbc:sqlserver://{host:ssrp_host:localhost}[:{port:ssrp_port}][;&lt;;,user[Name]={user},password={password},database[Name]={database},instanceName={instance:ssrp_instance},{:identifier}={:param}&gt;];?" />
-      <url-template name="default" template="jdbc:sqlserver://;&lt;;,user[Name]={user},password={password},database[Name]={database},server[Name]={host:ssrp_host_ipv6:localhost},instanceName={instance:ssrp_instance},port[Number]={port:ssrp_port},{:identifier}={:param}&gt;;?" />
-      <artifact name="SQL Server" use="true" version="7.2.1" />
-      <option name="auto-sync" value="true" />
-      <option name="send-app-info" value="false" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
-      <property name="applicationName" value="DataGrip" />
     </driver>
   </component>
 </application>

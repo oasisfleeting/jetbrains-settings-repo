@@ -6,7 +6,12 @@
           <option name="url" value="http://172.16.1.8:8080" />
           <option name="userName" value="lylemcclanahan" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.16.1.8:8080/NetPayAdvance/yak.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\lylemcclanahan\NPACode" />
   </component>
 </application>

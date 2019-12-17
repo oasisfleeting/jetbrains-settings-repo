@@ -3,70 +3,79 @@
     <option name="history">
       <list>
         <ColumnAlignerModel>
-          <option name="added" value="1560182365422" />
+          <option name="added" value="1575578792189" />
           <option name="separators">
             <list>
-              <option value=": " />
+              <option value=":" />
               <option value="" />
             </list>
           </option>
         </ColumnAlignerModel>
         <ColumnAlignerModel>
-          <option name="added" value="1560199860007" />
+          <option name="added" value="1575579373024" />
           <option name="separators">
             <list>
-              <option value=": " />
+              <option value="=" />
               <option value="" />
             </list>
           </option>
         </ColumnAlignerModel>
         <ColumnAlignerModel>
-          <option name="added" value="1560455784788" />
+          <option name="added" value="1575658711301" />
           <option name="separators">
             <list>
-              <option value=": " />
+              <option value="-" />
               <option value="" />
             </list>
           </option>
         </ColumnAlignerModel>
         <ColumnAlignerModel>
-          <option name="added" value="1560455936819" />
+          <option name="added" value="1576253047249" />
           <option name="separators">
             <list>
-              <option value=": " />
+              <option value=":" />
               <option value="" />
             </list>
           </option>
         </ColumnAlignerModel>
         <ColumnAlignerModel>
-          <option name="added" value="1562086178212" />
+          <option name="added" value="1576446433649" />
           <option name="separators">
             <list>
-              <option value="&quot;&gt;" />
+              <option value="AS" />
               <option value="" />
             </list>
           </option>
         </ColumnAlignerModel>
         <ColumnAlignerModel>
-          <option name="added" value="1562086188812" />
+          <option name="added" value="1576583308937" />
           <option name="separators">
             <list>
-              <option value="&quot;&gt;" />
+              <option value=":" />
               <option value="" />
             </list>
           </option>
         </ColumnAlignerModel>
         <ColumnAlignerModel>
-          <option name="added" value="1562353788481" />
+          <option name="added" value="1576594819468" />
           <option name="separators">
             <list>
-              <option value="//" />
+              <option value=":" />
               <option value="" />
             </list>
           </option>
         </ColumnAlignerModel>
         <ColumnAlignerModel>
-          <option name="added" value="1562361327103" />
+          <option name="added" value="1576608014532" />
+          <option name="separators">
+            <list>
+              <option value=":" />
+              <option value="" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1576610287132" />
           <option name="separators">
             <list>
               <option value=":" />

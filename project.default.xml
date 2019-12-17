@@ -2,47 +2,9 @@
   <component name="ProjectManager">
     <defaultProject>
       <component name="PropertiesComponent">
-        <property name="js.buildTools.grunt.grunt-cli.package" value="" />
-        <property name="js.buildTools.gulp.gulp_package_dir" value="" />
-        <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/npm/node_modules/react-templates/bin/rt.js" />
-        <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+        <property name="last_opened_file_path" value="$USER_HOME$/NPACode" />
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
         <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <property name="settings.editor.selected.configurable" value="com.wix.rt.settings.RTSettingsPage" />
-      </component>
-      <component name="RTProjectComponent">
-        <option name="rtExecutable" value="C:\Users\LyleMcclanahan\AppData\Roaming\npm\rt.cmd" />
-        <option name="nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-        <option name="pluginEnabled" value="true" />
-        <option name="modules" value="es6" />
-      </component>
-      <component name="RunDashboard">
-        <option name="ruleStates">
-          <list>
-            <RuleState>
-              <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-            </RuleState>
-            <RuleState>
-              <option name="name" value="StatusDashboardGroupingRule" />
-            </RuleState>
-          </list>
-        </option>
-      </component>
-      <component name="RunManager">
-        <configuration default="true" type="js.build_tools.grunt">
-          <node-interpreter value="project" />
-          <envs />
-          <method v="2" />
-        </configuration>
-        <configuration default="true" type="js.build_tools.gulp">
-          <node-interpreter>project</node-interpreter>
-          <node-options />
-          <gulpfile />
-          <tasks />
-          <arguments />
-          <envs />
-          <method v="2" />
-        </configuration>
       </component>
     </defaultProject>
   </component>
