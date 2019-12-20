@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="orig" type="JavaScript" />
+      <mapping pattern="INSERT_HOLIDAYS" type="SQL" />
     </extensionMap>
   </component>
 </application>
