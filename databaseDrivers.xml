@@ -22,6 +22,7 @@
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="sqlserver.ms">
+      <remarks>NPALog</remarks>
       <artifact name="SQL Server" use="true" version="7.4.1" />
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
