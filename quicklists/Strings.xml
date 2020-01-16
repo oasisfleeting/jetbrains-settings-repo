@@ -1,0 +1,7 @@
+<list display="Strings" description="String Manipulation">
+  <action id="SplitAction" />
+  <action id="JoinAction" />
+  <action id="EditorReverseLines" />
+  <action id="EditorSortLines" />
+  <action id="EditorJoinLines" />
+</list>
