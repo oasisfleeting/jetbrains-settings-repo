@@ -10,5 +10,6 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="ide.tooltip.initialDelay" value="658" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="completion.stats.show.ml.ranking.diff" value="true" />
   </component>
 </application>
