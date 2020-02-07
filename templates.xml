@@ -1,5 +1,6 @@
 <application>
   <component name="TemplateSettings">
+    <defaultShortcut shortcut="ENTER" />
     <option name="deletedKeys">
       <list>
         <TemplateKey>
@@ -973,102 +974,6 @@
         <TemplateKey>
           <option name="groupName" value="Zen XSL" />
           <option name="key" value="!!!" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="ai" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="an" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="ats" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="atsm" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="cos" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="ctn" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="ctnwp" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="cwt" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="cwto" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="fe" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="it" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="kn" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="o" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="pn" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="tm" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="tmm" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="tn" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="tt" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="vn" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="vns" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="vos" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="wp" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="wpn" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="xsl" />
-          <option name="key" value="wt" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Zen CSS" />
@@ -3612,10 +3517,6 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Zen CSS" />
-          <option name="key" value="wid" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Zen CSS" />
           <option name="key" value="wfsm" />
         </TemplateKey>
         <TemplateKey>
@@ -3633,6 +3534,102 @@
         <TemplateKey>
           <option name="groupName" value="Zen CSS" />
           <option name="key" value="wfsm:n" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="ai" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="an" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="ats" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="atsm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="cos" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="ctn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="ctnwp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="cwt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="cwto" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="fe" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="it" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="kn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="o" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="pn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="tm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="tmm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="tn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="tt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="vn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="vns" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="vos" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="wp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="wpn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="xsl" />
+          <option name="key" value="wt" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="JavaScript" />
@@ -3779,20 +3776,120 @@
           <option name="key" value="temp:name" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Dart" />
-          <option name="key" value="iter" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_if" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Dart" />
-          <option name="key" value="itar" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_elif" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Dart" />
-          <option name="key" value="sout" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_select" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Dart" />
-          <option name="key" value="soutm" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_case" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_for" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_while" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_until" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_function" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string not equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string is empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string not empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number not equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number less" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number less or equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number greater" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number greater or equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file not empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file readable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file writable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file executable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file equals" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file newer" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file older" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_path exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_directory exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_command exists" />
         </TemplateKey>
       </list>
     </option>
